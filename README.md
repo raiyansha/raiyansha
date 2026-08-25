@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Md.+Rafit+Raiyan+%F0%9F%91%8B;CSE+Student+%7C+Frontend+Developer;Cyber+Security+Enthusiast;Building+Ideas+into+Code."/>
+# ⚡ MD. RAFIT RAIYAN
 
-### `Computer Science & Engineering Student`
+### `CSE STUDENT` • `FRONTEND DEVELOPER` • `CYBER SECURITY ENTHUSIAST`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Md.+Rafit+Raiyan+%F0%9F%91%8B;CSE+Student+%7C+Frontend+Developer;Cyber+Security+Enthusiast;Building+Ideas+into+Code."/>
 
 <p>
   <a href="https://github.com/raiyansha">
@@ -33,19 +35,11 @@
 
 ## 👋 About Me
 
-I'm **Md. Rafit Raiyan**, a **Computer Science & Engineering student at Rangpur Engineering College, Bangladesh**.
+I'm **Md. Rafit Raiyan**, a **Computer Science & Engineering student at Rangpur Engineering College, Bangladesh 🇧🇩**.
 
-I enjoy turning ideas into practical software and building **clean, responsive, and user-friendly web applications**. My main focus is **Frontend Development**, while I also work with programming and problem solving.
+I'm passionate about **Frontend Development, Programming, Problem Solving, and Cyber Security**. I enjoy building clean, responsive, and user-friendly web applications using **HTML, CSS, JavaScript, and React**.
 
-I'm currently exploring **React, modern web technologies, Data Structures & Algorithms, and Cyber Security**.
-
-```text
-Frontend Development     ████████████████████░
-Programming              ██████████████████░░
-Problem Solving          ████████████████░░░░
-Cyber Security           ██████████████░░░░░░
-Git & GitHub              █████████████████░░░
-```
+I also work with **C, C++, and Java** while continuously improving my **Data Structures, Algorithms, Git & GitHub** skills.
 
 > `Learn → Build → Break → Fix → Improve`
 
@@ -128,13 +122,13 @@ Worked on frontend development projects, focusing on responsive interfaces and i
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raiyansha&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=raiyansha&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyansha&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyansha&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
@@ -173,11 +167,11 @@ Worked on frontend development projects, focusing on responsive interfaces and i
 ## 🌱 Currently Learning
 
 ```text
-React
-Modern JavaScript
-Data Structures & Algorithms
-Cyber Security
-Git & GitHub
+⚛️ React & Modern JavaScript
+🧠 Data Structures & Algorithms
+🔐 Cyber Security & Ethical Hacking
+🐙 Git & GitHub
+🌐 Modern Web Development
 ```
 
 ---

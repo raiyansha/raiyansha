@@ -20,11 +20,8 @@
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   $ whoami                                                  │
-│   rafit-raiyan                                              │
-│                                                             │
 │   role      : CSE Student / Frontend Developer              │
-│   location  : Bangladesh 🇧🇩                                │
+│   location  : Bangladesh 🇧🇩                                 │
 │   interests : Web Development • Programming • CyberSec      │
 │   status    : Learning • Building • Improving               │
 │                                                             │
@@ -83,14 +80,6 @@ Personal portfolio website showcasing my **skills, education, projects, and expe
 ### 🖼️ Image Gallery
 
 Responsive image gallery with an interactive **lightbox experience**.
-
-`HTML` `CSS` `JavaScript`
-
----
-
-### 🧮 Calculator
-
-Clean and responsive calculator built with **vanilla JavaScript**.
 
 `HTML` `CSS` `JavaScript`
 

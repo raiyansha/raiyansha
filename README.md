@@ -13,8 +13,8 @@
 │  SYSTEM STATUS : ONLINE                                      │
 │  USER         : RAFIT_RAIYAN                                 │
 │  ROLE         : CSE STUDENT / DEVELOPER                      │
-│  LOCATION     : BANGLADESH 🇧🇩                                │
-│  STATUS       : LEARNING • BUILDING • EVOLVING               │
+│  LOCATION     : BANGLADESH 🇧🇩                              │
+│  STATUS       : LEARNING • BUILDING • EVOLVING              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -170,20 +170,30 @@ I'm focused on strengthening my fundamentals, building meaningful projects, impr
 
 ### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
+<p align="center">
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41"/>
 </p>
 
 ### Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41"/>
 </p>
 
 ### Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/VHDL-000000?style=for-the-badge&logoColor=00FF41"/>
 </p>
 
 ---
@@ -194,7 +204,9 @@ I'm focused on strengthening my fundamentals, building meaningful projects, impr
 
 A personal portfolio website showcasing my skills, projects, education, and experience.
 
-**Tech:** `HTML` `CSS` `JavaScript`
+**Technologies:** `HTML` `CSS` `JavaScript`
+
+[![Repository](https://img.shields.io/badge/VIEW%20SOURCE-000000?style=for-the-badge\&logo=github\&logoColor=00FF41)](https://github.com/raiyansha/CodeAlpha_Portfolio-Site)
 
 ---
 
@@ -202,7 +214,14 @@ A personal portfolio website showcasing my skills, projects, education, and expe
 
 A responsive image gallery with interactive lightbox functionality.
 
-**Tech:** `HTML` `CSS` `JavaScript`
+**Technologies:** `HTML` `CSS` `JavaScript`
+
+**Features:**
+
+* 📱 Responsive design
+* 🖼️ Interactive image gallery
+* 🔍 Lightbox functionality
+* ⚡ Lightweight frontend
 
 ---
 
@@ -210,7 +229,40 @@ A responsive image gallery with interactive lightbox functionality.
 
 A responsive calculator application built with vanilla JavaScript.
 
-**Tech:** `HTML` `CSS` `JavaScript`
+**Technologies:** `HTML` `CSS` `JavaScript`
+
+**Features:**
+
+* ➕ Basic arithmetic operations
+* 🎨 Clean interface
+* 📱 Responsive layout
+* ⚡ Fast and lightweight
+
+---
+
+### 🍽️ React Meal Information App
+
+A React-based application that retrieves meal categories and meal information using **TheMealDB API**.
+
+**Technologies:** `React` `JavaScript` `HTML` `CSS`
+
+**Features:**
+
+* 🍔 Meal categories
+* 🔎 Dynamic meal filtering
+* 🌐 API integration
+* ⚛️ React components
+* ⏳ Loading and error handling
+
+---
+
+### 💻 3rd Semester Projects
+
+A collection of academic projects, assignments, programming exercises, and course materials from my **3rd semester of CSE**.
+
+**Technologies:** `C` `C++` `Java` `Verilog` `VHDL` `R`
+
+[![Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-000000?style=for-the-badge\&logo=github\&logoColor=00FF41)](https://github.com/raiyansha/3nd-Semester)
 
 ---
 
@@ -221,6 +273,15 @@ A responsive calculator application built with vanilla JavaScript.
 **CodeAlpha**
 
 Worked on frontend development projects and gained practical experience in building responsive and interactive web applications.
+
+**Focus:**
+
+```text
+Frontend Development
+Responsive Web Design
+Interactive UI
+HTML / CSS / JavaScript
+```
 
 ---
 
@@ -248,9 +309,9 @@ Worked on frontend development projects and gained practical experience in build
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raiyansha&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=raiyansha&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyansha&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyansha&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
@@ -260,7 +321,7 @@ Worked on frontend development projects and gained practical experience in build
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=raiyansha&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
+<img src="https://streak-stats.demolab.com?user=raiyansha&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41"/>
 
 </div>
 
@@ -270,7 +331,7 @@ Worked on frontend development projects and gained practical experience in build
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=raiyansha&theme=matrix&no-frame=true&no-bg=true&margin-w=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=raiyansha&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=4"/>
 
 </div>
 

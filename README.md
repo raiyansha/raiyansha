@@ -41,14 +41,63 @@
 
 # 👨‍💻 ABOUT ME
 
-Hi! I'm **Md. Rafit Raiyan**, a **Computer Science & Engineering student at Rangpur Engineering College**.
+Hi! I'm **Md. Rafit Raiyan**, a passionate **Computer Science & Engineering student at Rangpur Engineering College** from Bangladesh 🇧🇩.
 
-I'm passionate about **Web Development, Programming and Technology**. I enjoy creating responsive websites, building practical projects and solving programming problems.
+I’m deeply interested in **software development, web technologies, programming, and problem solving**. I enjoy turning ideas into functional and user-friendly applications, experimenting with new technologies, and continuously improving my technical skills through practical projects.
 
-Currently, I'm focused on becoming a better **Frontend Developer** while exploring **React, Data Structures & Algorithms and Cyber Security**.
+### 🌐 Frontend Development
+
+My primary area of interest is **Frontend Development**. I enjoy creating clean, responsive, interactive, and user-friendly websites using **HTML, CSS, and JavaScript**. I’m also exploring **React and modern web development technologies** to build more dynamic and scalable applications.
+
+I believe that a good website is not only about how it looks, but also about **performance, responsiveness, accessibility, usability, and clean code**.
+
+### 💻 Programming & Problem Solving
+
+Alongside web development, I work with programming languages such as **C, C++, Java, and JavaScript**. I enjoy solving programming problems and learning how **Data Structures and Algorithms** can be used to develop efficient solutions.
+
+I’m continuously working on improving my **logical thinking, algorithmic problem-solving, debugging, and coding skills**.
+
+### 🔐 Cyber Security
+
+I also have a strong interest in **Cyber Security and Ethical Hacking**. I’m interested in understanding how systems and networks work, how vulnerabilities occur, and how secure software can be developed.
+
+Cyber Security is an area I plan to explore more deeply as I continue my journey in Computer Science.
+
+### 🚀 Building & Learning
+
+I believe the best way to learn programming is by **building real projects**. I regularly work on small and practical projects to strengthen my understanding of different technologies.
+
+Some of the areas I enjoy working on include:
+
+* 🌐 Web Development
+* 🎨 Frontend Development
+* 💻 Programming
+* 🧠 Data Structures & Algorithms
+* 🔐 Cyber Security
+* 🐙 Git & GitHub
+* 🛠️ Software Development
+* 📚 Learning New Technologies
+
+### 🎯 My Goal
+
+My long-term goal is to become a **skilled Software Developer** who can design, develop, and maintain reliable and user-friendly software solutions.
+
+I'm currently focused on strengthening my fundamentals, building more projects, improving my problem-solving abilities, and gaining real-world development experience.
+
+> **“Don't just learn to code. Learn to build, solve, and create.”**
 
 ```text
-CODE      →      LEARN      →      BUILD      →      IMPROVE
+📚 LEARN
+   ↓
+💻 CODE
+   ↓
+🛠️ BUILD
+   ↓
+🐛 DEBUG
+   ↓
+🚀 IMPROVE
+   ↓
+🎯 REPEAT
 ```
 
 ---

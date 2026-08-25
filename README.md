@@ -1,73 +1,162 @@
 <div align="center">
 
-# ⚡ MD. RAFIT RAIYAN
+# `>_` MD. RAFIT RAIYAN
 
-### `CSE STUDENT` • `FRONTEND DEVELOPER` • `TECH ENTHUSIAST`
+### `CSE STUDENT` • `FRONTEND DEVELOPER` • `CYBER SECURITY ENTHUSIAST`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Ideas+into+Code;Learning+Something+New+Every+Day;Frontend+Development+%7C+Problem+Solving;Computer+Science+%26+Engineering"/>
-
-</div>
-
----
-
-## 🎮 DEVELOPER CARD
-
-<div align="center">
-
-|       ⭐      | PLAYER INFO            |
-| :----------: | :--------------------- |
-|    **OVR**   | **89**                 |
-|   **NAME**   | **MD. RAFIT RAIYAN**   |
-| **POSITION** | **FRONTEND DEVELOPER** |
-|   **LEVEL**  | **CSE STUDENT**        |
-|  **NATION**  | 🇧🇩 **BANGLADESH**    |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami+%3A%3A+Rafit+Raiyan;Initializing+Developer+Profile...;Frontend+Developer+%7C+Programmer;Cyber+Security+Enthusiast;Code.+Learn.+Build.+Repeat."/>
 
 </div>
-
-### 📊 SKILL RATINGS
 
 ```text
-        PAC  91       💻 Programming
-        SHO  82       🧠 Problem Solving
-        PAS  94       🌐 Web Development
-        DRI  92       🎨 Frontend Development
-        DEF  70       🔐 Cyber Security
-        PHY  85       🐙 Git & GitHub
-
-              ⭐ OVR 89 ⭐
+┌──────────────────────────────────────────────────────────────┐
+│  SYSTEM STATUS : ONLINE                                      │
+│  USER         : RAFIT_RAIYAN                                 │
+│  ROLE         : CSE STUDENT / DEVELOPER                      │
+│  LOCATION     : BANGLADESH 🇧🇩                              │
+│  STATUS       : LEARNING • BUILDING • EVOLVING              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 👨‍💻 ABOUT ME
+# `01` // DEVELOPER PROFILE
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════╗
+║              ⚡ DEVELOPER CARD ⚡            ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║       NAME       : MD. RAFIT RAIYAN          ║
+║       OVR        : 89                        ║
+║       POSITION   : FRONTEND DEVELOPER        ║
+║       LEVEL      : CSE STUDENT               ║
+║       NATION     : 🇧🇩 BANGLADESH            ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+</div>
+
+### `>_` SKILL MATRIX
+
+```text
+[██████████████████░░] 91  PAC  :: Programming
+[████████████████░░░░] 82  SHO  :: Problem Solving
+[███████████████████░] 94  PAS  :: Web Development
+[██████████████████░░] 92  DRI  :: Frontend Development
+[██████████████░░░░░░] 70  DEF  :: Cyber Security
+[█████████████████░░░] 85  PHY  :: Git & GitHub
+
+                 >>> OVR : 89 <<<
+```
+
+---
+
+# `02` // ABOUT_ME
+
+```bash
+$ whoami
+
+Md. Rafit Raiyan
+Computer Science & Engineering Student
+Frontend Developer
+Tech Enthusiast
+Cyber Security Enthusiast
+```
 
 Hi! I'm **Md. Rafit Raiyan**, a passionate **Computer Science & Engineering student at Rangpur Engineering College** from Bangladesh 🇧🇩.
 
-I’m deeply interested in **software development, web technologies, programming, and problem solving**. I enjoy turning ideas into functional and user-friendly applications, experimenting with new technologies, and continuously improving my technical skills through practical projects.
+I'm interested in **software development, web technologies, programming, problem solving, and cyber security**. I enjoy taking an idea, turning it into code, testing it, breaking it, fixing it, and finally turning it into a working project.
 
-### 🌐 Frontend Development
+My main focus is **Frontend Development**, where I enjoy creating clean, responsive, interactive, and user-friendly web applications using technologies such as **HTML, CSS, JavaScript, and React**.
 
-My primary area of interest is **Frontend Development**. I enjoy creating clean, responsive, interactive, and user-friendly websites using **HTML, CSS, and JavaScript**. I’m also exploring **React and modern web development technologies** to build more dynamic and scalable applications.
+I also work with **C, C++, Java, and JavaScript** and continuously practice programming and problem solving to strengthen my logical thinking and understanding of algorithms and data structures.
 
-I believe that a good website is not only about how it looks, but also about **performance, responsiveness, accessibility, usability, and clean code**.
+### `>_` FRONTEND DEVELOPMENT
 
-### 💻 Programming & Problem Solving
+I enjoy building modern and responsive interfaces with a focus on:
 
-Alongside web development, I work with programming languages such as **C, C++, Java, and JavaScript**. I enjoy solving programming problems and learning how **Data Structures and Algorithms** can be used to develop efficient solutions.
+```text
+✓ Clean UI
+✓ Responsive Design
+✓ User Experience
+✓ Interactive Components
+✓ Performance
+✓ Accessibility
+✓ Maintainable Code
+```
 
-I’m continuously working on improving my **logical thinking, algorithmic problem-solving, debugging, and coding skills**.
+I'm currently exploring **React and modern web development technologies** to improve my ability to build dynamic and scalable applications.
 
-### 🔐 Cyber Security
+### `>_` PROGRAMMING & DSA
 
-I also have a strong interest in **Cyber Security and Ethical Hacking**. I’m interested in understanding how systems and networks work, how vulnerabilities occur, and how secure software can be developed.
+Programming is an important part of my Computer Science journey.
 
-Cyber Security is an area I plan to explore more deeply as I continue my journey in Computer Science.
+I'm continuously improving my knowledge of:
 
-### 🚀 Building & Learning
+```text
+C
+C++
+Java
+JavaScript
+Data Structures
+Algorithms
+Problem Solving
+Debugging
+```
 
-I believe the best way to learn programming is by **building real projects**. I regularly work on small and practical projects to strengthen my understanding of different technologies.
+I regularly practice programming problems to improve my ability to think logically and develop efficient solutions.
 
-Some of the areas I enjoy working on include:
+### `>_` CYBER SECURITY
+
+I have a strong interest in **Cyber Security and Ethical Hacking**.
+
+I'm interested in learning how:
+
+```text
+Systems work
+Networks communicate
+Vulnerabilities occur
+Applications can be secured
+Security weaknesses can be identified
+```
+
+My goal is to gradually develop a strong foundation in cyber security while continuing my software development journey.
+
+### `>_` BUILDING & LEARNING
+
+I believe the best way to learn technology is by **building real things**.
+
+My development philosophy:
+
+```text
+              ┌─────────────┐
+              │    LEARN    │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │    CODE     │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │    BUILD    │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │    DEBUG    │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │   IMPROVE   │
+              └──────┬──────┘
+                     ↓
+                  REPEAT
+```
+
+### `>_` CURRENT INTERESTS
 
 * 🌐 Web Development
 * 🎨 Frontend Development
@@ -75,70 +164,55 @@ Some of the areas I enjoy working on include:
 * 🧠 Data Structures & Algorithms
 * 🔐 Cyber Security
 * 🐙 Git & GitHub
+* ⚛️ React
 * 🛠️ Software Development
-* 📚 Learning New Technologies
 
-### 🎯 My Goal
+### `>_` LONG TERM GOAL
 
-My long-term goal is to become a **skilled Software Developer** who can design, develop, and maintain reliable and user-friendly software solutions.
+My long-term goal is to become a **skilled Software Developer** capable of designing, developing, and maintaining reliable, secure, and user-friendly software solutions.
 
-I'm currently focused on strengthening my fundamentals, building more projects, improving my problem-solving abilities, and gaining real-world development experience.
+I'm focused on strengthening my fundamentals, building meaningful projects, improving my problem-solving skills, and gaining real-world development experience.
 
-> **“Don't just learn to code. Learn to build, solve, and create.”**
+> **`Don't just learn to code. Learn to build, solve, secure, and create.`**
+
+---
+
+# `03` // EDUCATION
 
 ```text
-📚 LEARN
-   ↓
-💻 CODE
-   ↓
-🛠️ BUILD
-   ↓
-🐛 DEBUG
-   ↓
-🚀 IMPROVE
-   ↓
-🎯 REPEAT
+┌──────────────────────────────────────────────────────┐
+│ 🎓 BSc IN COMPUTER SCIENCE & ENGINEERING             │
+│                                                      │
+│    Rangpur Engineering College                       │
+│    Department : Computer Science & Engineering      │
+│                                                      │
+├──────────────────────────────────────────────────────┤
+│ 📘 HSC                                             │
+│    Year : 2022                                      │
+│                                                      │
+├──────────────────────────────────────────────────────┤
+│ 📗 SSC                                             │
+│    Year : 2020                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🎓 EDUCATION
+# `04` // TECH_STACK
 
-### 🎓 Bachelor of Science in Computer Science & Engineering
-
-**Rangpur Engineering College**
-
-`Computer Science & Engineering`
-
----
-
-### 📘 Higher Secondary Certificate
-
-**HSC • 2022**
-
----
-
-### 📗 Secondary School Certificate
-
-**SSC • 2020**
-
----
-
-# 💻 TECH STACK
-
-### Programming Languages
+### `>_` PROGRAMMING LANGUAGES
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
 </p>
 
-### Web Development
+### `>_` WEB DEVELOPMENT
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
 </p>
 
-### Tools & Platforms
+### `>_` TOOLS & PLATFORMS
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
@@ -146,81 +220,106 @@ I'm currently focused on strengthening my fundamentals, building more projects, 
 
 ---
 
-# 🚀 PROJECTS
+# `05` // PROJECTS
 
-### 🌐 Portfolio Website
+### `01` 🌐 PORTFOLIO WEBSITE
 
-A personal portfolio website showcasing my skills, projects, education and experience.
+Personal portfolio website showcasing my skills, projects, education and experience.
 
-**Tech:** `HTML` `CSS` `JavaScript`
-
----
-
-### 🖼️ Image Gallery
-
-A responsive image gallery with interactive lightbox functionality.
-
-**Tech:** `HTML` `CSS` `JavaScript`
+```text
+Tech : HTML • CSS • JavaScript
+Type : Frontend / Personal Portfolio
+```
 
 ---
 
-### 🧮 Calculator
+### `02` 🖼️ IMAGE GALLERY
 
-A responsive calculator application built with vanilla JavaScript.
+Responsive image gallery with interactive lightbox functionality.
 
-**Tech:** `HTML` `CSS` `JavaScript`
+```text
+Tech : HTML • CSS • JavaScript
+Type : Frontend Project
+```
 
 ---
 
-# 💼 EXPERIENCE
+### `03` 🧮 CALCULATOR
 
-### 💻 Frontend Developer Intern
+Responsive calculator application built with vanilla JavaScript.
+
+```text
+Tech : HTML • CSS • JavaScript
+Type : Web Application
+```
+
+---
+
+# `06` // EXPERIENCE
+
+### 💻 FRONTEND DEVELOPER INTERN
 
 **CodeAlpha**
 
-Worked on frontend development projects and gained practical experience in building responsive and interactive web applications.
+```text
+Role   : Frontend Developer
+Focus  : Web Development
+Work   : Responsive & Interactive Web Applications
+```
+
+Gained practical experience in frontend development and worked on projects focused on creating responsive and interactive web applications.
 
 ---
 
-# 🏅 CERTIFICATION
+# `07` // CERTIFICATION
 
-📜 **Web Design and Development for Freelancing — Level 3**
+```text
+╔══════════════════════════════════════════════╗
+║              🏅 CERTIFICATION                ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  Web Design and Development for Freelancing  ║
+║                                              ║
+║                  LEVEL 3                     ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
 
 ---
 
-# 📈 GITHUB STATS
+# `08` // GITHUB_STATS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raiyansha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raiyansha&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyansha&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyansha&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 CONTRIBUTION STREAK
+# `09` // CONTRIBUTION_STREAK
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=raiyansha&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=raiyansha&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
 
 </div>
 
 ---
 
-# 🏆 GITHUB TROPHIES
+# `10` // GITHUB_TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=raiyansha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=raiyansha&theme=matrix&no-frame=true&no-bg=true&margin-w=6"/>
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# `11` // CONTRIBUTION_SNAKE
 
 <div align="center">
 
@@ -230,36 +329,45 @@ Worked on frontend development projects and gained practical experience in build
 
 ---
 
-# 🎯 CURRENTLY
+# `12` // CURRENTLY_RUNNING
 
-```text
-🔭 Working on       → Web Development Projects
-🌱 Learning         → React & Modern Web Technologies
-💻 Improving        → Data Structures & Algorithms
-🔐 Exploring        → Cyber Security
-🎯 Goal             → Become a Skilled Software Developer
+```bash
+$ systemctl status rafit-development
+
+● rafit-development.service - Developer Mode
+   Loaded: active
+   Status: ONLINE
+
+   🔭 Working on      : Web Development Projects
+   🌱 Learning        : React & Modern Web Technologies
+   💻 Improving       : Data Structures & Algorithms
+   🔐 Exploring       : Cyber Security
+   🐙 Using           : Git & GitHub
+   🎯 Goal            : Skilled Software Developer
+
+   [████████████████████] SYSTEM READY
 ```
 
 ---
 
-# 🌐 CONNECT WITH ME
+# `13` // CONNECT
 
 <div align="center">
 
 <a href="https://github.com/raiyansha">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
 </a>
 
 <a href="https://www.linkedin.com/in/md-rafit-raiyan-356b0a3ba">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
 </a>
 
 <a href="https://codeforces.com/profile/rafitraiyan204">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=00FF41"/>
 </a>
 
 <a href="https://judge.beecrowd.com/en/profile/1156552">
-<img src="https://img.shields.io/badge/Beecrowd-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Beecrowd-000000?style=for-the-badge&logo=codeforces&logoColor=00FF41"/>
 </a>
 
 </div>
@@ -268,8 +376,17 @@ Worked on frontend development projects and gained practical experience in build
 
 <div align="center">
 
-### ⚡ BUILD • LEARN • CODE • REPEAT
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║       ⚡ BUILD • LEARN • CODE • REPEAT ⚡    ║
+║                                              ║
+║              SYSTEM : ONLINE                ║
+║              USER   : RAFIT                 ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
 
-**Thanks for visiting my profile!** ⭐
+### `> Thanks for visiting my profile. ⭐`
 
 </div>

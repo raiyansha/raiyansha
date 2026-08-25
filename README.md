@@ -13,8 +13,8 @@
 │  SYSTEM STATUS : ONLINE                                      │
 │  USER         : RAFIT_RAIYAN                                 │
 │  ROLE         : CSE STUDENT / DEVELOPER                      │
-│  LOCATION     : BANGLADESH 🇧🇩                              │
-│  STATUS       : LEARNING • BUILDING • EVOLVING              │
+│  LOCATION     : BANGLADESH 🇧🇩                                │
+│  STATUS       : LEARNING • BUILDING • EVOLVING               │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -253,16 +253,6 @@ A React-based application that retrieves meal categories and meal information us
 * 🌐 API integration
 * ⚛️ React components
 * ⏳ Loading and error handling
-
----
-
-### 💻 3rd Semester Projects
-
-A collection of academic projects, assignments, programming exercises, and course materials from my **3rd semester of CSE**.
-
-**Technologies:** `C` `C++` `Java` `Verilog` `VHDL` `R`
-
-[![Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-000000?style=for-the-badge\&logo=github\&logoColor=00FF41)](https://github.com/raiyansha/3nd-Semester)
 
 ---
 

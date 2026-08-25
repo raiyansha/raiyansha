@@ -254,11 +254,11 @@ Worked on frontend development projects and gained practical experience in build
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/">
+<a href="https://codeforces.com/profile/rafitraiyan204">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-<a href="https://www.beecrowd.com.br/">
+<a href="https://judge.beecrowd.com/en/profile/1156552">
 <img src="https://img.shields.io/badge/Beecrowd-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 

@@ -225,21 +225,6 @@ A responsive image gallery with interactive lightbox functionality.
 
 ---
 
-### 🧮 Calculator
-
-A responsive calculator application built with vanilla JavaScript.
-
-**Technologies:** `HTML` `CSS` `JavaScript`
-
-**Features:**
-
-* ➕ Basic arithmetic operations
-* 🎨 Clean interface
-* 📱 Responsive layout
-* ⚡ Fast and lightweight
-
----
-
 ### 🍽️ React Meal Information App
 
 A React-based application that retrieves meal categories and meal information using **TheMealDB API**.
@@ -334,6 +319,7 @@ HTML / CSS / JavaScript
 <img src="https://raw.githubusercontent.com/raiyansha/raiyansha/output/github-contribution-grid-snake.svg"/>
 
 </div>
+
 
 ---
 

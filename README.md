@@ -1,308 +1,156 @@
 <div align="center">
 
-# ⚡ MD. RAFIT RAIYAN
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Md.+Rafit+Raiyan+%F0%9F%91%8B;CSE+Student+%7C+Frontend+Developer;Cyber+Security+Enthusiast;Building+Ideas+into+Code."/>
 
-### `CSE STUDENT` • `FRONTEND DEVELOPER` • `CYBER SECURITY ENTHUSIAST`
+### `Computer Science & Engineering Student`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami+%3A%3A+Rafit+Raiyan;Initializing+Developer+Profile...;Frontend+Developer+%7C+Programmer;Cyber+Security+Enthusiast;Code.+Learn.+Build.+Repeat."/>
+<p>
+  <a href="https://github.com/raiyansha">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00FF41"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-rafit-raiyan-356b0a3ba">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF41"/>
+  </a>
+</p>
 
 </div>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│  SYSTEM STATUS : ONLINE                                      │
-│  USER         : RAFIT_RAIYAN                                 │
-│  ROLE         : CSE STUDENT / DEVELOPER                      │
-│  LOCATION     : BANGLADESH 🇧🇩                                │
-│  STATUS       : LEARNING • BUILDING • EVOLVING               │
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   $ whoami                                                  │
+│   rafit-raiyan                                              │
+│                                                             │
+│   role      : CSE Student / Frontend Developer              │
+│   location  : Bangladesh 🇧🇩                                │
+│   interests : Web Development • Programming • CyberSec      │
+│   status    : Learning • Building • Improving               │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🎮 Developer Card
+## 👋 About Me
+
+I'm **Md. Rafit Raiyan**, a **Computer Science & Engineering student at Rangpur Engineering College, Bangladesh**.
+
+I enjoy turning ideas into practical software and building **clean, responsive, and user-friendly web applications**. My main focus is **Frontend Development**, while I also work with programming and problem solving.
+
+I'm currently exploring **React, modern web technologies, Data Structures & Algorithms, and Cyber Security**.
+
+```text
+Frontend Development     ████████████████████░
+Programming              ██████████████████░░
+Problem Solving          ████████████████░░░░
+Cyber Security           ██████████████░░░░░░
+Git & GitHub              █████████████████░░░
+```
+
+> `Learn → Build → Break → Fix → Improve`
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Computer Science & Engineering**
+Rangpur Engineering College
+
+**HSC — 2022**
+
+**SSC — 2020**
+
+---
+
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-|       ⭐      | PLAYER INFO            |
-| :----------: | :--------------------- |
-|    **OVR**   | **89**                 |
-|   **NAME**   | **MD. RAFIT RAIYAN**   |
-| **POSITION** | **FRONTEND DEVELOPER** |
-|   **LEVEL**  | **CSE STUDENT**        |
-|  **NATION**  | 🇧🇩 **BANGLADESH**    |
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,nodejs,git,github,vscode,verilog&theme=dark"/>
 
 </div>
 
-### 📊 Skill Ratings
-
-```text
-[██████████████████░░] 91  💻 Programming
-[████████████████░░░░] 82  🧠 Problem Solving
-[███████████████████░] 94  🌐 Web Development
-[██████████████████░░] 92  🎨 Frontend Development
-[██████████████░░░░░░] 70  🔐 Cyber Security
-[█████████████████░░░] 85  🐙 Git & GitHub
-
-                 ⭐ OVR 89 ⭐
-```
-
 ---
 
-# 👨‍💻 About Me
-
-Hi! I'm **Md. Rafit Raiyan**, a passionate **Computer Science & Engineering student at Rangpur Engineering College** from Bangladesh 🇧🇩.
-
-I'm interested in **software development, web technologies, programming, problem solving, and cyber security**. I enjoy taking an idea, turning it into code, testing it, fixing problems, and transforming it into a working project.
-
-My primary focus is **Frontend Development**, where I enjoy creating clean, responsive, interactive, and user-friendly websites using **HTML, CSS, and JavaScript**. I'm also exploring **React and modern web development technologies** to build more dynamic and scalable applications.
-
-Alongside web development, I work with **C, C++, Java, and JavaScript**. I enjoy solving programming problems and learning how **Data Structures and Algorithms** can be used to develop efficient solutions.
-
-### 🌐 Frontend Development
-
-I enjoy building modern interfaces with a focus on:
-
-```text
-✓ Clean UI
-✓ Responsive Design
-✓ User Experience
-✓ Interactive Components
-✓ Performance
-✓ Accessibility
-✓ Maintainable Code
-```
-
-### 💻 Programming & Problem Solving
-
-I'm continuously improving my knowledge of:
-
-```text
-C
-C++
-Java
-JavaScript
-Data Structures
-Algorithms
-Problem Solving
-Debugging
-```
-
-I practice programming problems to improve my logical thinking, algorithmic skills, and ability to develop efficient solutions.
-
-### 🔐 Cyber Security
-
-I have a strong interest in **Cyber Security and Ethical Hacking**.
-
-I'm interested in understanding how:
-
-```text
-Systems work
-Networks communicate
-Vulnerabilities occur
-Applications can be secured
-Security weaknesses can be identified
-```
-
-I plan to explore Cyber Security more deeply as I continue my Computer Science journey.
-
-### 🚀 Building & Learning
-
-I believe the best way to learn technology is by **building real projects**.
-
-```text
-              ┌─────────────┐
-              │    LEARN    │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │    CODE     │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │    BUILD    │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │    DEBUG    │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │   IMPROVE   │
-              └──────┬──────┘
-                     ↓
-                   REPEAT
-```
-
-### 🎯 My Goal
-
-My long-term goal is to become a **skilled Software Developer** capable of designing, developing, and maintaining reliable, secure, and user-friendly software solutions.
-
-I'm focused on strengthening my fundamentals, building meaningful projects, improving my problem-solving skills, and gaining real-world development experience.
-
-> **"Don't just learn to code. Learn to build, solve, secure, and create."**
-
----
-
-# 🎓 Education
-
-### 🎓 Bachelor of Science in Computer Science & Engineering
-
-**Rangpur Engineering College**
-
-`Department of Computer Science & Engineering`
-
----
-
-### 📘 Higher Secondary Certificate
-
-**HSC • 2022**
-
----
-
-### 📗 Secondary School Certificate
-
-**SSC • 2020**
-
----
-
-# 💻 Tech Stack
-
-### Programming Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF41"/>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41"/>
-</p>
-
-### Web Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41"/>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41"/>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41"/>
-</p>
-
-### Tools & Platforms
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
-  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00FF41"/>
-  <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logoColor=00FF41"/>
-  <img src="https://img.shields.io/badge/VHDL-000000?style=for-the-badge&logoColor=00FF41"/>
-</p>
-
----
-
-# 🚀 Projects
+## 🚀 Selected Projects
 
 ### 🌐 Portfolio Website
 
-A personal portfolio website showcasing my skills, projects, education, and experience.
+Personal portfolio website showcasing my **skills, education, projects, and experience**.
 
-**Technologies:** `HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript`
 
-[![Repository](https://img.shields.io/badge/VIEW%20SOURCE-000000?style=for-the-badge\&logo=github\&logoColor=00FF41)](https://github.com/raiyansha/CodeAlpha_Portfolio-Site)
+<a href="https://github.com/raiyansha/CodeAlpha_Portfolio-Site">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
+</a>
 
 ---
 
 ### 🖼️ Image Gallery
 
-A responsive image gallery with interactive lightbox functionality.
+Responsive image gallery with an interactive **lightbox experience**.
 
-**Technologies:** `HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript`
 
-**Features:**
+---
 
-* 📱 Responsive design
-* 🖼️ Interactive image gallery
-* 🔍 Lightbox functionality
-* ⚡ Lightweight frontend
+### 🧮 Calculator
+
+Clean and responsive calculator built with **vanilla JavaScript**.
+
+`HTML` `CSS` `JavaScript`
 
 ---
 
 ### 🍽️ React Meal Information App
 
-A React-based application that retrieves meal categories and meal information using **TheMealDB API**.
+React application using **TheMealDB API** to dynamically display meal categories and meals.
 
-**Technologies:** `React` `JavaScript` `HTML` `CSS`
-
-**Features:**
-
-* 🍔 Meal categories
-* 🔎 Dynamic meal filtering
-* 🌐 API integration
-* ⚛️ React components
-* ⏳ Loading and error handling
+`React` `JavaScript` `REST API`
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-### 💻 Frontend Developer Intern
+### Frontend Developer Intern
 
 **CodeAlpha**
 
-Worked on frontend development projects and gained practical experience in building responsive and interactive web applications.
+Worked on frontend development projects, focusing on responsive interfaces and interactive web experiences.
 
-**Focus:**
-
-```text
-Frontend Development
-Responsive Web Design
-Interactive UI
-HTML / CSS / JavaScript
-```
+`Frontend Development` `HTML` `CSS` `JavaScript`
 
 ---
 
-# 🏅 Certification
+## 🏅 Certification
+
+**Web Design and Development for Freelancing — Level 3**
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════╗
-║              🏅 CERTIFICATION                ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  Web Design and Development for Freelancing  ║
-║                                              ║
-║                  LEVEL 3                     ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
+<img src="https://github-readme-stats.vercel.app/api?username=raiyansha&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&count_private=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyansha&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 GitHub Stats
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=raiyansha&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyansha&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=raiyansha&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=raiyansha&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
@@ -312,7 +160,7 @@ HTML / CSS / JavaScript
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
 
@@ -320,23 +168,21 @@ HTML / CSS / JavaScript
 
 </div>
 
-
 ---
 
-# 🎯 Currently
+## 🌱 Currently Learning
 
 ```text
-🔭 Working on       → Web Development Projects
-🌱 Learning         → React & Modern Web Technologies
-💻 Improving        → Data Structures & Algorithms
-🔐 Exploring        → Cyber Security
-🐙 Using            → Git & GitHub
-🎯 Goal             → Become a Skilled Software Developer
+React
+Modern JavaScript
+Data Structures & Algorithms
+Cyber Security
+Git & GitHub
 ```
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Find Me Online
 
 <div align="center">
 
@@ -362,17 +208,8 @@ HTML / CSS / JavaScript
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║       ⚡ BUILD • LEARN • CODE • REPEAT ⚡    ║
-║                                              ║
-║              SYSTEM : ONLINE                ║
-║              USER   : RAFIT                 ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
+### `while(alive) { learn(); build(); improve(); }`
 
-### `> Thanks for visiting my profile. ⭐`
+**Thanks for visiting my profile.** ⭐
 
 </div>

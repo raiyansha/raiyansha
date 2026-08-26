@@ -57,9 +57,17 @@ Rangpur Engineering College
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,nodejs,git,github,vscode,verilog&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,nodejs,git,github,vscode&theme=dark"/>
 
 </div>
+
+<!--
+  NOTE: "verilog" icon was removed from the badge above because it wasn't
+  mentioned anywhere in your About/Skills text. If you actually work with
+  Verilog (e.g. digital logic / VLSI coursework), add it back to the icon
+  list above (,verilog) and mention it in the About Me section too, so the
+  badges match your written skills.
+-->
 
 ---
 
@@ -83,6 +91,13 @@ Responsive image gallery with an interactive **lightbox experience**.
 
 `HTML` `CSS` `JavaScript`
 
+<!-- TODO: add a repo link badge here, same style as the Portfolio Website
+     project above, once you have the repository URL. Example:
+<a href="https://github.com/raiyansha/YOUR-REPO-NAME">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
+</a>
+-->
+
 ---
 
 ### 🍽️ React Meal Information App
@@ -90,6 +105,8 @@ Responsive image gallery with an interactive **lightbox experience**.
 React application using **TheMealDB API** to dynamically display meal categories and meals.
 
 `React` `JavaScript` `REST API`
+
+<!-- TODO: add a repo link badge here too, once available. -->
 
 ---
 
@@ -151,6 +168,14 @@ Worked on frontend development projects, focusing on responsive interfaces and i
 
 </div>
 
+<!--
+  NOTE: This snake animation only shows up if you've set up the
+  "snk" GitHub Action in a repo named exactly "raiyansha/raiyansha"
+  (a special profile repo), writing its output to an "output" branch.
+  If you haven't done that yet, this image will appear broken.
+  Setup guide: https://github.com/Platane/snk
+-->
+
 ---
 
 ## 🌱 Currently Learning
@@ -182,7 +207,7 @@ Worked on frontend development projects, focusing on responsive interfaces and i
 </a>
 
 <a href="https://judge.beecrowd.com/en/profile/1156552">
-<img src="https://img.shields.io/badge/Beecrowd-000000?style=for-the-badge&logo=codeforces&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Beecrowd-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRkY0MSI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNU0yIDEybDEwIDUgMTAtNSIvPjwvc3ZnPg==&logoColor=00FF41"/>
 </a>
 
 </div>

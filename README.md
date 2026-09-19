@@ -218,6 +218,8 @@ Worked on frontend development projects, focusing on responsive interfaces and i
 
 ### `while(alive) { learn(); build(); improve(); }`
 
+<img src="https://komarev.com/ghpvc/?username=raiyansha&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge" alt="Profile Views"/>
+
 **Thanks for visiting my profile.** ⭐
 
 </div>
